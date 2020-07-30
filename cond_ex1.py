@@ -13,6 +13,7 @@ def main():
         print("Your ticket costs {0:1} pounds".format(6/3))
     else:
         print ("Your ticket costs {0:1} pounds".format(6))
+    print ("BYE")
 
 if __name__ == "__main__":
     main()
